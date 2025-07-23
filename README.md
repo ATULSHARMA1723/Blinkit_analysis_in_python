@@ -11,7 +11,7 @@ To practice and demonstrate skills in data manipulation, visualization, and busi
 
 
 
-🛠# Tools & Libraries Used
+# Tools & Libraries Used
 Python 3
 
 pandas
@@ -24,11 +24,11 @@ Jupyter Notebook
 
 
 # Key Visuals & Insights
-📉 Total Sales by Item Type: Identified top revenue-contributing categories.
+ Total Sales by Item Type: Identified top revenue-contributing categories.
 
-📦 Item Type Distribution: Analyzed product diversity and demand.
+ Item Type Distribution: Analyzed product diversity and demand.
 
-💰 Revenue Patterns: Visualized contribution of various item types using sorted bar charts.
+ Revenue Patterns: Visualized contribution of various item types using sorted bar charts.
 
 # Outcome
 Identified the most profitable item types by grouping and summing sales values.
